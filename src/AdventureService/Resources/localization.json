@@ -1,0 +1,26 @@
+{
+    "AdventuresNotFound": {
+        "Values": {
+            "pt-BR": "Nenhuma aventura encontrada",
+            "en-US": "No adventures found"
+        }
+    },
+    "AdventureNotFoundIdParameter": {
+        "Values": {
+            "pt-BR": "A aventura de id: {0} não foi encontrada",
+            "en-US": "The adventure with id: {0} was not found"
+        }
+    },
+    "CategoryNotFoundIdParameter": {
+        "Values": {
+            "pt-BR": "A categoria de id: {0} não foi encontrada",
+            "en-US": "The category with id: {0} was not found"
+        }
+    },
+    "CategoriesNotFound": {
+        "Values": {
+            "pt-BR": "Nenhuma categoria encontrada",
+            "en-US": "No categories found"
+        }
+    }
+}
